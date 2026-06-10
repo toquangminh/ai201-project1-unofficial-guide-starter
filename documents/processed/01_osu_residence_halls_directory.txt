@@ -1,0 +1,9 @@
+Source title: Ohio State Residence Halls Directory
+Source type: official OSU housing page
+URL: https://housing.osu.edu/roomsearch/
+
+The page lets users search and filter residence halls by rate category, amenity, and location.
+
+The directory includes rate filter options such as Rate I, Rate II, Rate III, and Rate IV. It also lists amenity filter options such as academic year housing, air conditioning, bike room access, community sinks, private baths on floor or wing, corridor bath, disability access, game room, kitchen facilities, laundry facilities, lounge space, microwave/refrigerator, ResNet, scholarship housing, single-gender room or suite options, study areas, suite or room bath, and vending machines.
+
+Columbus residence hall examples listed in the directory include Archer House, Baker Hall East, Baker Hall West, Barrett House, Blackburn House, Bowen House, Bradley Hall, Busch House, Canfield Hall, Fechko House, German House, Halloran House, Hanley House, Haverfield House, Houck House, Houston House, Lincoln Tower, Mack Hall, Mendoza House, Morrill Tower, Morrison Tower, Neil Building, Norton House, Nosker House, Park-Stradley Hall, Paterson Hall, Pennsylvania Place, Pomerene House, Raney House, Scholars East, Scholars West, Scott House, Siebert Hall, Smith-Steeb Hall, The Residence on Tenth, Torres House, and Worthington Building.

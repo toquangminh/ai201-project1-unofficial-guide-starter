@@ -1,0 +1,13 @@
+Source title: r/OSU Thread - Best Dorms / Dorm Rankings?
+Source type: student Reddit discussion
+URL: https://www.reddit.com/r/OSU/comments/1e7q64x/best_dorms_dorm_rankings/
+
+This Reddit thread discusses OSU dorm rankings and whether certain dorms are realistic for freshmen. It is useful for questions about the difference between “best dorms” and dorms that freshmen are likely to get.
+
+In the thread, one student says they are probably going to try for a dorm on North Campus. They ask whether some North Campus dorms are harder for freshmen to make friends in because many sophomores live there. Another commenter lists Residence on Tenth, Neil, and Worthington on South Campus as dorms to consider.
+
+A different commenter responds that those dorms do not really have many first-year rooms. Another student says freshmen may be assigned there if they have certain accommodations; for example, they describe a friend with a restrictive diet who notified OSU and was placed in Worthington as a freshman. The commenter says this is not common but also not unheard of.
+
+Another comment notes that Neil and Worthington are nice dorms but are not close to most classes because they are another street down. This repeats the same tradeoff seen in other student discussions: Neil and Worthington are praised for quality, but location can be a drawback depending on a student’s classes.
+
+For the RAG system, this source is important because it helps avoid overpromising. If a user asks “Can freshmen get Neil or Worthington?” the answer should be cautious: student comments suggest it may happen with accommodations or special circumstances, but it is not described as common in the thread.

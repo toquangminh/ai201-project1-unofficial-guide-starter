@@ -1,0 +1,290 @@
+[
+  {
+    "source": "01_osu_residence_halls_directory.txt",
+    "source_title": "Ohio State Residence Halls Directory",
+    "source_type": "official OSU housing page",
+    "url": "https://housing.osu.edu/roomsearch/",
+    "chunk_id": "01_osu_residence_halls_directory.txt::chunk_0",
+    "char_length": 186,
+    "text": "The page lets users search and filter residence halls by rate category, amenity, and location.\n\nThe directory includes rate filter options such as Rate I, Rate II, Rate III, and Rate IV."
+  },
+  {
+    "source": "01_osu_residence_halls_directory.txt",
+    "source_title": "Ohio State Residence Halls Directory",
+    "source_type": "official OSU housing page",
+    "url": "https://housing.osu.edu/roomsearch/",
+    "chunk_id": "01_osu_residence_halls_directory.txt::chunk_1",
+    "char_length": 396,
+    "text": "It also lists amenity filter options such as academic year housing, air conditioning, bike room access, community sinks, private baths on floor or wing, corridor bath, disability access, game room, kitchen facilities, laundry facilities, lounge space, microwave/refrigerator, ResNet, scholarship housing, single-gender room or suite options, study areas, suite or room bath, and vending machines."
+  },
+  {
+    "source": "01_osu_residence_halls_directory.txt",
+    "source_title": "Ohio State Residence Halls Directory",
+    "source_type": "official OSU housing page",
+    "url": "https://housing.osu.edu/roomsearch/",
+    "chunk_id": "01_osu_residence_halls_directory.txt::chunk_2",
+    "char_length": 641,
+    "text": "Columbus residence hall examples listed in the directory include Archer House, Baker Hall East, Baker Hall West, Barrett House, Blackburn House, Bowen House, Bradley Hall, Busch House, Canfield Hall, Fechko House, German House, Halloran House, Hanley House, Haverfield House, Houck House, Houston House, Lincoln Tower, Mack Hall, Mendoza House, Morrill Tower, Morrison Tower, Neil Building, Norton House, Nosker House, Park-Stradley Hall, Paterson Hall, Pennsylvania Place, Pomerene House, Raney House, Scholars East, Scholars West, Scott House, Siebert Hall, Smith-Steeb Hall, The Residence on Tenth, Torres House, and Worthington Building."
+  },
+  {
+    "source": "02_osu_incoming_students_housing.txt",
+    "source_title": "Ohio State Incoming Students Housing Page",
+    "source_type": "official OSU housing page",
+    "url": "https://housing.osu.edu/incoming-students/",
+    "chunk_id": "02_osu_incoming_students_housing.txt::chunk_0",
+    "char_length": 367,
+    "text": "It says that living on campus offers advantages and is intended to support student success at Ohio State. Campus housing is home to first-year and upperclass students.\n\nThe page says all unmarried, full-time students within two years of high school graduation must live on campus unless they are exempted, space is no longer available, or they are living with family."
+  },
+  {
+    "source": "02_osu_incoming_students_housing.txt",
+    "source_title": "Ohio State Incoming Students Housing Page",
+    "source_type": "official OSU housing page",
+    "url": "https://housing.osu.edu/incoming-students/",
+    "chunk_id": "02_osu_incoming_students_housing.txt::chunk_1",
+    "char_length": 183,
+    "text": "This is important for questions about whether first-year or second-year students are required to live in university housing.\n\nOhio State lists several advantages of on-campus housing."
+  },
+  {
+    "source": "02_osu_incoming_students_housing.txt",
+    "source_title": "Ohio State Incoming Students Housing Page",
+    "source_type": "official OSU housing page",
+    "url": "https://housing.osu.edu/incoming-students/",
+    "chunk_id": "02_osu_incoming_students_housing.txt::chunk_2",
+    "char_length": 372,
+    "text": "Ohio State lists several advantages of on-campus housing. These include convenient location to classes, resident advisors assigned to every floor to help students transition to college and live with roommates, full-time professional staff living in each housing complex, opportunities to develop friendships and memories, and opportunities to get involved in student life."
+  },
+  {
+    "source": "02_osu_incoming_students_housing.txt",
+    "source_title": "Ohio State Incoming Students Housing Page",
+    "source_type": "official OSU housing page",
+    "url": "https://housing.osu.edu/incoming-students/",
+    "chunk_id": "02_osu_incoming_students_housing.txt::chunk_3",
+    "char_length": 324,
+    "text": "The page also points students toward Learning Communities if they want a special living arrangement based on academic, cultural, or lifestyle interests.\n\nThe page also discusses disability accommodations. Students requesting housing modifications as disability accommodations should contact Student Life Disability Services."
+  },
+  {
+    "source": "02_osu_incoming_students_housing.txt",
+    "source_title": "Ohio State Incoming Students Housing Page",
+    "source_type": "official OSU housing page",
+    "url": "https://housing.osu.edu/incoming-students/",
+    "chunk_id": "02_osu_incoming_students_housing.txt::chunk_4",
+    "char_length": 200,
+    "text": "Students who need special assignment consideration for other reasons, or students with a service animal or therapy animal, are encouraged to contact Housing and Residence Education to discuss options."
+  },
+  {
+    "source": "03_osu_standard_housing_rates.txt",
+    "source_title": "Ohio State Standard Housing Rates",
+    "source_type": "official OSU housing page",
+    "url": "https://housing.osu.edu/incoming-students/fees-contracts-policies/standard-housing-rates/",
+    "chunk_id": "03_osu_standard_housing_rates.txt::chunk_0",
+    "char_length": 380,
+    "text": "The page tells students to check their University Statement of Account before each session begins. It says students are responsible for understanding fee structures and obligations. It also says students should share fee information with others, such as parents or guardians, who may be paying fees on their behalf.\n\nThe page says housing fees are due at the same time as tuition."
+  },
+  {
+    "source": "03_osu_standard_housing_rates.txt",
+    "source_title": "Ohio State Standard Housing Rates",
+    "source_type": "official OSU housing page",
+    "url": "https://housing.osu.edu/incoming-students/fees-contracts-policies/standard-housing-rates/",
+    "chunk_id": "03_osu_standard_housing_rates.txt::chunk_1",
+    "char_length": 370,
+    "text": "The page says housing fees are due at the same time as tuition. The listed due dates on the page are Fall Semester: August 18, 2026, and Spring Semester: January 4, 2027. Students should verify current due dates on the official page or Buckeye Link because rates and deadlines can change by academic year.\n\nThe page also notes that students own their Ohio State account."
+  },
+  {
+    "source": "03_osu_standard_housing_rates.txt",
+    "source_title": "Ohio State Standard Housing Rates",
+    "source_type": "official OSU housing page",
+    "url": "https://housing.osu.edu/incoming-students/fees-contracts-policies/standard-housing-rates/",
+    "chunk_id": "03_osu_standard_housing_rates.txt::chunk_2",
+    "char_length": 263,
+    "text": "The page also notes that students own their Ohio State account. If Ohio State needs to communicate with parents, guardians, or others about financial account matters, the student must authorize permission ahead of time by completing a Student Information Release."
+  },
+  {
+    "source": "04_osu_what_to_bring.txt",
+    "source_title": "Ohio State What To Bring",
+    "source_type": "official OSU housing page",
+    "url": "https://housing.osu.edu/resources/what-to-bring/",
+    "chunk_id": "04_osu_what_to_bring.txt::chunk_0",
+    "char_length": 327,
+    "text": "Ohio State says all regular residence halls are outfitted with beds, a desk, a desk chair, window covering, a trash can or recycle bin, a closet or wardrobe unit, and a refrigerator/microwave unit. This means students usually do not need to bring those basic furniture or appliance items separately for regular residence halls."
+  },
+  {
+    "source": "04_osu_what_to_bring.txt",
+    "source_title": "Ohio State What To Bring",
+    "source_type": "official OSU housing page",
+    "url": "https://housing.osu.edu/resources/what-to-bring/",
+    "chunk_id": "04_osu_what_to_bring.txt::chunk_1",
+    "char_length": 276,
+    "text": "The page also says Ohio State provides a general what-to-bring list and recommends that students consult with their roommate or roommates to avoid duplicates. This is important practical advice because dorm rooms have limited space and duplicate items can make a room crowded."
+  },
+  {
+    "source": "05_reddit_osu_wiki_dorm_life.txt",
+    "source_title": "r/OSU Wiki - Dorm Life Guide",
+    "source_type": "student/community-maintained Reddit wiki",
+    "url": "https://www.reddit.com/r/OSU/wiki/dorms/",
+    "chunk_id": "05_reddit_osu_wiki_dorm_life.txt::chunk_0",
+    "char_length": 377,
+    "text": "The wiki says Ohio State has move-in organized well, but students should still expect move-in to be busy and crowded. Students are advised to expect several lines and some walking. Practical suggestions include bringing water and snacks and having something to do while waiting in the car.\n\nFor dorm room problems or bed lofting, the wiki points students to Service2Facilities."
+  },
+  {
+    "source": "05_reddit_osu_wiki_dorm_life.txt",
+    "source_title": "r/OSU Wiki - Dorm Life Guide",
+    "source_type": "student/community-maintained Reddit wiki",
+    "url": "https://www.reddit.com/r/OSU/wiki/dorms/",
+    "chunk_id": "05_reddit_osu_wiki_dorm_life.txt::chunk_1",
+    "char_length": 443,
+    "text": "It gives the phone number 614-292-4357 and says students can also use the S2F online help site. The advice is to submit service requests sooner rather than later because requests can get backed up near move-in.\n\nThe wiki also gives dorm food advice. It says OSU dorm rooms come with a fridge and microwave, but the size of the fridge depends on the room type, such as double or suite. It warns students not to expect to store an entire pantry."
+  },
+  {
+    "source": "05_reddit_osu_wiki_dorm_life.txt",
+    "source_title": "r/OSU Wiki - Dorm Life Guide",
+    "source_type": "student/community-maintained Reddit wiki",
+    "url": "https://www.reddit.com/r/OSU/wiki/dorms/",
+    "chunk_id": "05_reddit_osu_wiki_dorm_life.txt::chunk_2",
+    "char_length": 560,
+    "text": "It warns students not to expect to store an entire pantry. It also says students should not plan to cook all their own meals unless they live in a dorm with in-room kitchens, because dorms require meal plans for a reason. The front desk may have pots, pans, and other cooking utensils available for check out.\n\nFor social life, the wiki recommends leaving the dorm room door open as a way to meet people in the building. It also encourages students to attend dorm events, because part of dorm fees goes toward social, wellness, diversity, and inclusion events."
+  },
+  {
+    "source": "06_reddit_best_dorms_at_osu.txt",
+    "source_title": "r/OSU Thread - Best dorms at OSU",
+    "source_type": "student Reddit discussion",
+    "url": "https://www.reddit.com/r/OSU/comments/14eh4zt/best_dorms_at_osu/",
+    "chunk_id": "06_reddit_best_dorms_at_osu.txt::chunk_0",
+    "char_length": 302,
+    "text": "One student recommends Mendoza because of the full kitchen and full fridge. Another comment asks about Torres, and another replies that the newer North Campus dorms are strong options.\n\nA deleted-user comment lists Neil, Worthington, Residence on Tenth, Blackburn, and Nosker as some of the best dorms."
+  },
+  {
+    "source": "06_reddit_best_dorms_at_osu.txt",
+    "source_title": "r/OSU Thread - Best dorms at OSU",
+    "source_type": "student Reddit discussion",
+    "url": "https://www.reddit.com/r/OSU/comments/14eh4zt/best_dorms_at_osu/",
+    "chunk_id": "06_reddit_best_dorms_at_osu.txt::chunk_1",
+    "char_length": 591,
+    "text": "Another student gives more detail: Neil and Worthington are described as especially strong room-wise because they have a full fridge, a kitchen with a stove, common space, and a bathroom right off the room. The same comment says they were recently updated. However, the tradeoff is location: Neil and Worthington are described as not the greatest location-wise because they are very far south unless the student is a medical student.\n\nThat same student says the next best dorms are Bowen, Busch, Nosker, Blackburn, and Houston. They describe these as similar newer buildings on North Campus."
+  },
+  {
+    "source": "07_reddit_best_dorm_rankings.txt",
+    "source_title": "r/OSU Thread - Best Dorms / Dorm Rankings?",
+    "source_type": "student Reddit discussion",
+    "url": "https://www.reddit.com/r/OSU/comments/1e7q64x/best_dorms_dorm_rankings/",
+    "chunk_id": "07_reddit_best_dorm_rankings.txt::chunk_0",
+    "char_length": 405,
+    "text": "In the thread, one student says they are probably going to try for a dorm on North Campus. They ask whether some North Campus dorms are harder for freshmen to make friends in because many sophomores live there. Another commenter lists Residence on Tenth, Neil, and Worthington on South Campus as dorms to consider.\n\nA different commenter responds that those dorms do not really have many first-year rooms."
+  },
+  {
+    "source": "07_reddit_best_dorm_rankings.txt",
+    "source_title": "r/OSU Thread - Best Dorms / Dorm Rankings?",
+    "source_type": "student Reddit discussion",
+    "url": "https://www.reddit.com/r/OSU/comments/1e7q64x/best_dorms_dorm_rankings/",
+    "chunk_id": "07_reddit_best_dorm_rankings.txt::chunk_1",
+    "char_length": 586,
+    "text": "Another student says freshmen may be assigned there if they have certain accommodations; for example, they describe a friend with a restrictive diet who notified OSU and was placed in Worthington as a freshman. The commenter says this is not common but also not unheard of.\n\nAnother comment notes that Neil and Worthington are nice dorms but are not close to most classes because they are another street down. This repeats the same tradeoff seen in other student discussions: Neil and Worthington are praised for quality, but location can be a drawback depending on a student’s classes."
+  },
+  {
+    "source": "08_reddit_north_south_west_campus.txt",
+    "source_title": "r/OSU Thread - North vs South vs West Campus",
+    "source_type": "student Reddit discussion",
+    "url": "https://www.reddit.com/r/OSU/comments/1khbaud/north_vs_south_vs_west_campus/",
+    "chunk_id": "08_reddit_north_south_west_campus.txt::chunk_0",
+    "char_length": 424,
+    "text": "The original poster says they heard North has nicer or newer dorms but less of a traditional college feel, while South has older dorms but may feel nicer socially. They also ask whether being an engineering major matters.\n\nSeveral replies say major and class location matter. One commenter says business and engineering are more north, English is closer to the middle, and South is easier for Thompson Library and the Union."
+  },
+  {
+    "source": "08_reddit_north_south_west_campus.txt",
+    "source_title": "r/OSU Thread - North vs South vs West Campus",
+    "source_type": "student Reddit discussion",
+    "url": "https://www.reddit.com/r/OSU/comments/1khbaud/north_vs_south_vs_west_campus/",
+    "chunk_id": "08_reddit_north_south_west_campus.txt::chunk_1",
+    "char_length": 390,
+    "text": "Another says STEM classes are mostly on North Campus while humanities tend to be on South, so North can reduce long walks for engineering or science students. Another commenter says for engineering, North will be closer to most classes.\n\nStudents disagree on atmosphere. Some say South feels more traditional, relaxed, green, and close to the Union, Oval, restaurants, bars, or Short North."
+  },
+  {
+    "source": "08_reddit_north_south_west_campus.txt",
+    "source_title": "r/OSU Thread - North vs South vs West Campus",
+    "source_type": "student Reddit discussion",
+    "url": "https://www.reddit.com/r/OSU/comments/1khbaud/north_vs_south_vs_west_campus/",
+    "chunk_id": "08_reddit_north_south_west_campus.txt::chunk_2",
+    "char_length": 354,
+    "text": "Others say North has newer dorms, a busier feel, more dorms, more buildings, and enough social life. Some say North can feel crowded and has less green space. West Campus is repeatedly described as inconvenient or the weakest option because students may need to bus or walk a long time to classes on main campus.\n\nThe thread also includes food tradeoffs."
+  },
+  {
+    "source": "08_reddit_north_south_west_campus.txt",
+    "source_title": "r/OSU Thread - North vs South vs West Campus",
+    "source_type": "student Reddit discussion",
+    "url": "https://www.reddit.com/r/OSU/comments/1khbaud/north_vs_south_vs_west_campus/",
+    "chunk_id": "08_reddit_north_south_west_campus.txt::chunk_3",
+    "char_length": 438,
+    "text": "The thread also includes food tradeoffs. Some students say South has better dining options overall, while another says students with Traditions meal plans should be careful because Kennedy is not viewed as favorably as Scott. Students mention Curl, Oxley’s, the Union, and Neil as other dining-related options.\n\nSpecific drawbacks appear too. One commenter says Raney had frequent fire alarms and heating issues on at least the top floor."
+  },
+  {
+    "source": "09_reddit_housing_dorm_questions.txt",
+    "source_title": "r/OSU Thread - Housing/Dorm Questions",
+    "source_type": "student Reddit Q&A",
+    "url": "https://www.reddit.com/r/OSU/comments/1qvp9bm/housingdorm_questions/",
+    "chunk_id": "09_reddit_housing_dorm_questions.txt::chunk_0",
+    "char_length": 421,
+    "text": "One commenter says the answer depends on what someone means by “suite.” Many North Campus quads are considered suites, such as two-room units with bathrooms that house four people, and plenty of freshmen get those. However, if the question is about the nicer end suites in newer dorms such as Houston, the commenter says they do not know many freshmen who got those, except a few who were reassigned after Taylor flooded."
+  },
+  {
+    "source": "09_reddit_housing_dorm_questions.txt",
+    "source_title": "r/OSU Thread - Housing/Dorm Questions",
+    "source_type": "student Reddit Q&A",
+    "url": "https://www.reddit.com/r/OSU/comments/1qvp9bm/housingdorm_questions/",
+    "chunk_id": "09_reddit_housing_dorm_questions.txt::chunk_1",
+    "char_length": 441,
+    "text": "Another comment says a freshman might get one of the nice suites, but likely only with high priority in the housing lottery for some other reason, such as SLDS accommodations that allow earlier selection. The commenter says students can get a four-person suite with a bathroom because those are mostly freshman dorms to their knowledge.\n\nBathroom preferences are described as difficult unless there are necessary accommodations through SLDS."
+  },
+  {
+    "source": "09_reddit_housing_dorm_questions.txt",
+    "source_title": "r/OSU Thread - Housing/Dorm Questions",
+    "source_type": "student Reddit Q&A",
+    "url": "https://www.reddit.com/r/OSU/comments/1qvp9bm/housingdorm_questions/",
+    "chunk_id": "09_reddit_housing_dorm_questions.txt::chunk_2",
+    "char_length": 315,
+    "text": "One commenter says the university may only care about bathroom preferences if the student has a condition that directly affects bathroom habits. The same comment warns that the chances of getting a private bathroom in the room are low unless the student gets certain freshman buildings or has strong accommodations."
+  },
+  {
+    "source": "09_reddit_housing_dorm_questions.txt",
+    "source_title": "r/OSU Thread - Housing/Dorm Questions",
+    "source_type": "student Reddit Q&A",
+    "url": "https://www.reddit.com/r/OSU/comments/1qvp9bm/housingdorm_questions/",
+    "chunk_id": "09_reddit_housing_dorm_questions.txt::chunk_3",
+    "char_length": 434,
+    "text": "The thread also gives emotional/practical advice: even if a student does not get exactly the housing they want, they should try to make the best of it rather than focusing all their energy on moving, because the likelihood of moving may be low. The commenter notes that even in newer buildings with communal bathrooms, the showers may be individual rooms in the bathroom area with doors that lock, not only curtains like a gym shower."
+  },
+  {
+    "source": "10_reddit_housing_reselection_megathread_2023_24.txt",
+    "source_title": "r/OSU On-Campus Housing Reselection Megathread 2023-24",
+    "source_type": "student Reddit megathread",
+    "url": "https://www.reddit.com/r/OSU/comments/12bzc40/oncampus_housing_reselection_megathread_202324/",
+    "chunk_id": "10_reddit_housing_reselection_megathread_2023_24.txt::chunk_0",
+    "char_length": 406,
+    "text": "Students in the thread discuss lottery numbers, room availability, roommate groups, and how quickly certain dorms disappear. One student asks whether there are still dorms available if they are just starting the process and getting a lottery number that day. A reply says availability depends on the lottery number and suggests that if the number is more than 6,000, probably only a few towers may be left."
+  },
+  {
+    "source": "10_reddit_housing_reselection_megathread_2023_24.txt",
+    "source_title": "r/OSU On-Campus Housing Reselection Megathread 2023-24",
+    "source_type": "student Reddit megathread",
+    "url": "https://www.reddit.com/r/OSU/comments/12bzc40/oncampus_housing_reselection_megathread_202324/",
+    "chunk_id": "10_reddit_housing_reselection_megathread_2023_24.txt::chunk_1",
+    "char_length": 321,
+    "text": "This is a student comment and should not be treated as an official rule, but it shows that students experience the process as priority-based and uncertain.\n\nAnother student asks people selecting that day to check availability in Residence on Tenth and any North Quad options. A response says none were available for both."
+  },
+  {
+    "source": "10_reddit_housing_reselection_megathread_2023_24.txt",
+    "source_title": "r/OSU On-Campus Housing Reselection Megathread 2023-24",
+    "source_type": "student Reddit megathread",
+    "url": "https://www.reddit.com/r/OSU/comments/12bzc40/oncampus_housing_reselection_megathread_202324/",
+    "chunk_id": "10_reddit_housing_reselection_megathread_2023_24.txt::chunk_2",
+    "char_length": 330,
+    "text": "A response says none were available for both. Another student reports scheduling a room at 11 AM with a lottery number around 4,200 and says there were still a few rooms left on North Campus: rate IIA quads in Halloran and similar buildings, a few in Raney, a few in Busch, and many doubles with one person already queued in them."
+  },
+  {
+    "source": "10_reddit_housing_reselection_megathread_2023_24.txt",
+    "source_title": "r/OSU On-Campus Housing Reselection Megathread 2023-24",
+    "source_type": "student Reddit megathread",
+    "url": "https://www.reddit.com/r/OSU/comments/12bzc40/oncampus_housing_reselection_megathread_202324/",
+    "chunk_id": "10_reddit_housing_reselection_megathread_2023_24.txt::chunk_3",
+    "char_length": 439,
+    "text": "They say it looked like the last day for a North room, while almost any location was available in South, including Morrison super doubles.\n\nThe thread also includes comments that Residence on Tenth had a good amount left and that there was a lot of Park-Stradley and some Smith-Steeb still available. These comments show that availability changes during selection and depends heavily on time, lottery number, roommate grouping, and demand."
+  }
+]

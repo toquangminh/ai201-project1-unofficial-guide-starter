@@ -1,0 +1,13 @@
+Source title: Ohio State Standard Housing Rates
+Source type: official OSU housing page
+URL: https://housing.osu.edu/incoming-students/fees-contracts-policies/standard-housing-rates/
+
+This official Ohio State page is about standard housing rates and student billing responsibility. It is useful for answering questions about where students should check their housing fees and how fee information is communicated.
+
+The page tells students to check their University Statement of Account before each session begins. It says students are responsible for understanding fee structures and obligations. It also says students should share fee information with others, such as parents or guardians, who may be paying fees on their behalf.
+
+The page says housing fees are due at the same time as tuition. The listed due dates on the page are Fall Semester: August 18, 2026, and Spring Semester: January 4, 2027. Students should verify current due dates on the official page or Buckeye Link because rates and deadlines can change by academic year.
+
+The page also notes that students own their Ohio State account. If Ohio State needs to communicate with parents, guardians, or others about financial account matters, the student must authorize permission ahead of time by completing a Student Information Release.
+
+For the RAG system, this source should be treated as official cost and billing context. It is not an opinion source about whether a dorm is worth the price. It can be combined with student discussions to answer cost/value questions, but the system should be careful to distinguish official fee rules from student opinions.
