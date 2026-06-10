@@ -40,9 +40,9 @@ Unofficial student knowledge about Ohio State University housing and dorm life
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:** 800–1,200 characters per chunk
+**Chunk size:** 300-450 characters per chunk
 
-**Overlap:** 150–200 characters of overlap.
+**Overlap:** 50-75 characters of overlap.
 
 **Reasoning:**
 My corpus is mixed. Some sources are short, opinion-based student posts or comments, while others are longer official pages or student media articles. For Reddit-style reviews and comments, the key evidence is often only one or two sentences, so very large chunks could mix unrelated opinions about different dorms. For official pages and longer guides, chunks need enough context to preserve the relationship between a rule, a dorm name, and the explanation around it.
